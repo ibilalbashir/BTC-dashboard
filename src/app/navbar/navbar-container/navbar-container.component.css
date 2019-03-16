@@ -1,0 +1,96 @@
+.hamburger-btn-1 {
+  width: 13px;
+  height: 4px;
+  background-color: white;
+  margin: 2px 0;
+}
+
+.navbar-brand {
+  color: white;
+}
+
+.hamburger-btn-2 {
+  width: 24px;
+  height: 4px;
+  background-color: white;
+  margin: 2px 0;
+}
+
+.hamburger-btn-3 {
+  width: 32px;
+  height: 4px;
+  background-color: white;
+  margin: 2px 0;
+}
+
+.search-icon {
+  position: absolute;
+  top: 29px;
+  left: 45%;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.corners {
+  border-radius: 0;
+}
+
+
+
+/* new css*/
+.inner-addon {
+  position: relative;
+}
+
+/* style icon */
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+/* align icon */
+.left-addon .glyphicon {
+  left: 0px;
+}
+
+.right-addon .glyphicon {
+  right: 0px;
+}
+
+/* add padding  */
+.search-icon {
+  position: absolute;
+  margin-top: -22px;
+  margin-left: 57px;
+}
+
+.border {
+  border-radius: 5px;
+}
+
+input {
+  font-size: 11px;
+  height: auto;
+  border-radius: 0px;
+}
+
+.search {
+  border-style: solid;
+  border-color: #737376;
+}
+
+.search-btn {
+  border-color: #737376;
+  background-color: #737376;
+  color: white;
+  outline: none !important;
+  box-shadow: none;
+}
+
+.search:focus {
+  outline: none !important;
+  box-shadow: none;
+}

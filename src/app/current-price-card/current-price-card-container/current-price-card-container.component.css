@@ -1,0 +1,18 @@
+.card {
+  background: #0B88DA;
+  border-radius: 5px;
+}
+
+.bitcoin-icon {
+  color: white;
+  position: absolute;
+  font-size: 50px;
+  top: 9px;
+  left: 6px;
+}
+
+.content {
+  position: relative;
+  padding-left: 84px;
+  padding-top: 8px;
+}

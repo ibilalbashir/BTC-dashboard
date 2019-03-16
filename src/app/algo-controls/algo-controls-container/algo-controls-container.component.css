@@ -1,0 +1,18 @@
+.small-font {
+  font-size: 6px;
+}
+
+.form-check-input {
+  position: absolute;
+  margin-top: -0.1rem !important;
+  margin-left: -1.25rem;
+}
+
+.card {
+  color: white;
+  background: #2A2B30
+}
+
+.card-title {
+  font-size: 0.8rem
+}
